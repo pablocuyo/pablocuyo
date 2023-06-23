@@ -1,6 +1,6 @@
 ## Hola!👋
 
-### Soy Pablo Cugini, software developer.
+### Soy Pablo Cugini, desarrollador de software.
 
 Actualmente estudiando sobre la infraestructura en la nube con AWS + Potrero Digital, y aumentando mis conocimientos de java con el framework springboot de la mano de Alura + Oracle con el programa ONE.
 
