@@ -1,8 +1,8 @@
 ## Hola!👋
 
-<img src="./assets/perfil-removebg-preview.png" alt="Pablo Cugini" style="border-radius: 50%; width: 200px; height: 200px;" />
-
-### Soy Pablo Cugini, software developer.
+<div style="display: flex; justify-content: center;">
+  <img src="./assets/perfil-removebg-preview.png" alt="Texto alternativo" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;" />
+</div>
 
 ### Soy Pablo Cugini, desarrollador de software.
 
