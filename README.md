@@ -1,11 +1,11 @@
 ## Hola!👋
 
-![Pablo Cugini](/pablocuyo/assets/perfil-removebg-preview.png)
+![Pablo Cugini](./assets/perfil-removebg-preview.png)
 
 ### Soy Pablo Cugini, software developer.
 
 ### Soy Pablo Cugini, desarrollador de software.
->>>>>>> 4ec45bf0f5d72fa5f6eebcf4d81e4c4126e8ff69
+
 
 Actualmente estudio sobre infraestructura en la nube con AWS + Potrero Digital, y aumentando mis conocimientos de java con el framework springboot de la mano de Alura + Oracle con el programa ONE.
 
