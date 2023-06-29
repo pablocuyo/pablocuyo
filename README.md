@@ -1,5 +1,5 @@
+##Hola!👋
 <p align="center">
-  <h2>Hola!👋</h2>
 <img src="./assets/perfil-removebg-preview.png" alt="Texto alternativo" style="border-radius:50%; width: 200px; height: 200px; object-fit: cover;" />
 </p>
 ### Soy Pablo Cugini, desarrollador de software.
