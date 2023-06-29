@@ -1,8 +1,8 @@
 ## Hola!👋
-<<<<<<< HEAD
+
 ![Pablo Cugini](/pablocuyo/assets/perfil-removebg-preview.png)
+
 ### Soy Pablo Cugini, software developer.
-=======
 
 ### Soy Pablo Cugini, desarrollador de software.
 >>>>>>> 4ec45bf0f5d72fa5f6eebcf4d81e4c4126e8ff69
