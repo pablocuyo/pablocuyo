@@ -1,11 +1,8 @@
 ## Hola!👋
-
-
+<p align="center">
 <img src="./assets/perfil-removebg-preview.png" alt="Texto alternativo" style="border-radius:50%; width: 200px; height: 200px; object-fit: cover;" />
-
-
+</p>
 ### Soy Pablo Cugini, desarrollador de software.
-
 
 Actualmente estudio sobre infraestructura en la nube con AWS + Potrero Digital, y aumentando mis conocimientos de java con el framework springboot de la mano de Alura + Oracle con el programa ONE.
 
